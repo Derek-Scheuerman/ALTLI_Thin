@@ -1,0 +1,147 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OpenXR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android"
+			]
+		},
+		{
+			"Name": "VirtualScouting",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": false
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": false
+		},
+		{
+			"Name": "SunPosition",
+			"Enabled": false
+		},
+		{
+			"Name": "SequencerScripting",
+			"Enabled": false
+		},
+		{
+			"Name": "Takes",
+			"Enabled": false
+		},
+		{
+			"Name": "VirtualProductionUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": false
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": false
+		},
+		{
+			"Name": "Composure",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaFrameworkUtilities",
+			"Enabled": false
+		},
+		{
+			"Name": "MediaIOFramework",
+			"Enabled": false
+		},
+		{
+			"Name": "RemoteControl",
+			"Enabled": false
+		},
+		{
+			"Name": "nDisplay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "AjaMedia",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "BlackmagicMedia",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "AppleProResMedia",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "HAPMedia",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "AppleARKit",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS"
+			]
+		},
+		{
+			"Name": "AppleARKitFaceSupport",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS"
+			]
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": false
+		},
+		{
+			"Name": "VariantManager",
+			"Enabled": false
+		},
+		{
+			"Name": "DMXProtocol",
+			"Enabled": false
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": false
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
+		},
+		{
+			"Name": "StaticMeshEditorModeling",
+			"Enabled": true
+		}
+	]
+}

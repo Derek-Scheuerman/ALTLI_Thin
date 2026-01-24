@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.5",
+	"FriendlyName": "SplineMeshEditor",
+	"Description": "Tool to generate layers of custom meshes on a spline",
+	"Category": "Other",
+	"CreatedBy": "Triple Scale Games Inc",
+	"CreatedByURL": "https://triplescalegames.com/",
+	"DocsURL": "https://drive.google.com/file/d/10inH4BWul7p261Bgo9Dw6b2uIF2P7pKS/view?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/270efe7731fc4f3c84c91f21898d9b3a",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SplineMeshEditor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
